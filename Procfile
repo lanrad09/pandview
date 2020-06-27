@@ -1,1 +1,1 @@
-web: voila ---port=$PORT ---no-browser pandview.ipynb
+web: voila --port=$PORT --no-browser pandview.ipynb
